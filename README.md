@@ -4,7 +4,7 @@ Verilog implementation of pipelined CPU for TSC instructions.
 It is solution of POSTECH CSED311(Computer Architecture) assignment. If you're participant of this class, ***don't copy this!***
 
 <p align="center">
-  <img src="media/pass.png" width="60%"/>
+  <img src="media/pass.png"/>
 </p>
 
 
@@ -30,7 +30,7 @@ Others are used for implementing the benchmark testing.
 
 ## Design
 <p align="center">
-  <img src="media/design.png" width="50%"/>
+  <img src="media/design.png"/>
 </p>
 
 
